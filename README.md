@@ -152,6 +152,10 @@ The C# and PowerShell files throughout the cheat sheet should be publicly access
 - I can't figure out sliver quote issues
 	- Same lol but with enough practice and time waste, you'll get it
 
+- Why is there a hav0c-ps.txt file everywhere? 
+	- I got lazy and didn't change the name as I was using Havoc before Sliver
+	- Should be present within https://github.com/Anon-Exploiter/sliver-cheatsheet/blob/main/bins/www/html/hav0c-ps.txt
+
 
 
 ## Listeners
