@@ -51,6 +51,8 @@ http -L 10.10.10.11 --lport 8099
 
 ## Payloads
 
+To be used with files in the `payloads` directory: https://github.com/Anon-Exploiter/sliver-cheatsheet/tree/main/payloads
+
 > XOR encryption with 2
 
 ```powershell
